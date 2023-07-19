@@ -1,6 +1,7 @@
 # Starbucks Landing Page
 
-![Starbucks Landing Page Preview](./assets/images/place.jpg)
+![Starbucks Landing Page Preview](https://github.com/RMDreamDev/starbucks-landing-page/assets/135339602/179202ec-cc50-4bbd-b5e4-b75d6b2a3d7a)
+
 
 Welcome to the Starbucks Landing Page repository! 
 This project showcases a simple responsive landing page for a fictional Starbucks website.
