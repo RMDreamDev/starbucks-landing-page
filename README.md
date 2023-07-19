@@ -2,7 +2,8 @@
 
 ![Starbucks Landing Page Preview](./assets/images/place.jpg)
 
-Welcome to the Starbucks Landing Page repository! This project showcases a simple responsive landing page for a fictional Starbucks website.
+Welcome to the Starbucks Landing Page repository! 
+This project showcases a simple responsive landing page for a fictional Starbucks website.
 
 ## Preview
 ![Starbucks Logo](./assets/icons/starbucks-logo-icon-21.png)
