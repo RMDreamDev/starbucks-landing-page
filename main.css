@@ -1,0 +1,52 @@
+
+
+body {
+    background-image: url(assets/images/place.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.menu-wrapper{
+    background-color: rgba(255, 255, 255, 0.913);  
+    height: auto;
+    width: 30%;
+    margin-top: -50px;
+    padding: 40px;
+    padding-top: 70px;
+    border-radius: 20px;
+    padding-bottom: 120px;
+}
+
+.menu-wrapper :hover{
+    background-color: rgb(22, 48, 14);
+    border: none;
+    color: white;
+}
+
+.icons{
+    width: 30%;
+    height: auto;
+    padding: 20px;
+    width: 150px;
+    border-radius: 20px;
+    margin: 6px;
+    cursor: pointer;
+}
+
+.icons span{
+    font-family: 40px;
+}
+
+@media only screen and (max-width: 700px)
+{
+    *{
+        box-sizing: border-box;
+    }
+    .landing-main-content {
+        padding: 150px;
+    }
+    .menu-wrapper {
+        width: 100%;
+    }
+}
